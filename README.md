@@ -3,4 +3,4 @@
 Something
 
 
-![Alt text](instrument_recognition.jpg)
+![Alt text](images/instrument_recognition.jpg)
